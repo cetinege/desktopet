@@ -1,5 +1,7 @@
 # desktopet
-little pet for people who feel lonely
+A little pet for people who feel lonely.
+
+- Made with Aseprite, Python and love.
 
 
 # Changelog
